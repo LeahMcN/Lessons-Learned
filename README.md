@@ -1,5 +1,5 @@
 # Lessons-Learned
-##Lessons I've learned at Bloc.io:
+## Lessons I've learned at Bloc.io:
 1. Markdown
 2. Terminal
 3. HTML
@@ -9,4 +9,4 @@
 7. Git
 8. Github
 9. Atom
-10. Slack 
+10. Slack
